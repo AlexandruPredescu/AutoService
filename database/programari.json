@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "clientId": "1",
+    "serieSasiu": "98765432109876543",
+    "masina": {
+      "nr_inmatriculare": "PH-456-DEF",
+      "serie_sasiu": "98765432109876543",
+      "marca": "BMW",
+      "model": "X3",
+      "an_fabricatie": 2020,
+      "tip_motorizare": "diesel",
+      "capacitate_motor": "2200 cm3",
+      "cai_putere": 170,
+      "kw_putere": 125
+    },
+    "actiune": "reparatie",
+    "interval": {
+      "start": "2024-05-30T10:00:00",
+      "end": "2024-05-30T11:00:00"
+    }
+  },
+  {
+    "id": 2,
+    "clientId": "1",
+    "serieSasiu": "98765432109876543",
+    "masina": {
+      "nr_inmatriculare": "PH-456-DEF",
+      "serie_sasiu": "98765432109876543",
+      "marca": "BMW",
+      "model": "X3",
+      "an_fabricatie": 2020,
+      "tip_motorizare": "diesel",
+      "capacitate_motor": "2200 cm3",
+      "cai_putere": 170,
+      "kw_putere": 125
+    },
+    "actiune": "reparatie",
+    "interval": {
+      "start": "2024-05-30T10:00:00",
+      "end": "2024-05-30T11:00:00"
+    }
+  },
+  {
+    "id": 3,
+    "clientId": "1",
+    "serieSasiu": "98765432109876543",
+    "masina": {
+      "nr_inmatriculare": "PH-456-DEF",
+      "serie_sasiu": "98765432109876543",
+      "marca": "BMW",
+      "model": "X3",
+      "an_fabricatie": 2020,
+      "tip_motorizare": "diesel",
+      "capacitate_motor": "2200 cm3",
+      "cai_putere": 170,
+      "kw_putere": 125
+    },
+    "actiune": "reparatie",
+    "interval": {
+      "start": "2024-05-30T10:00:00",
+      "end": "2024-05-30T11:00:00"
+    },
+    "istoricServicii": []
+  }
+]

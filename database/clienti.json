@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "nume": "Popescu",
+    "prenume": "Ion",
+    "telefon": "0722123456",
+    "email": "popescu.ion@example.com",
+    "masini": [
+      {
+        "nr_inmatriculare": "B-123-ABC",
+        "serie_sasiu": "12345678901234567",
+        "marca": "Audi",
+        "model": "A4",
+        "an_fabricatie": 2018,
+        "tip_motorizare": "benzină",
+        "capacitate_motor": "2000 cm3",
+        "cai_putere": 150,
+        "kw_putere": 110
+      },
+      {
+        "nr_inmatriculare": "PH-456-DEF",
+        "serie_sasiu": "98765432109876543",
+        "marca": "BMW",
+        "model": "X3",
+        "an_fabricatie": 2020,
+        "tip_motorizare": "diesel",
+        "capacitate_motor": "2200 cm3",
+        "cai_putere": 170,
+        "kw_putere": 125
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "nume": "Popescu",
+    "prenume": "Maria",
+    "telefon": "0715623456",
+    "email": "popescu.maria@example.com",
+    "masini": [
+      {
+        "nr_inmatriculare": "CJ-789-GHI",
+        "serie_sasiu": "24680135792468013",
+        "marca": "Mercedes",
+        "model": "E-Class",
+        "an_fabricatie": 2019,
+        "tip_motorizare": "benzină",
+        "capacitate_motor": "1800 cm3",
+        "cai_putere": 160,
+        "kw_putere": 118
+      }
+    ]
+  }
+]
